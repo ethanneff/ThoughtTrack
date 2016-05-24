@@ -1491,11 +1491,11 @@
             } else if ([self menuCurrent] == self.menuNoteEdit && [self.menuNoteView.view isHidden]) {
                 if (self.menuTagLast == 22) {
                     contentFrame = self.tableViewTasks.tableView.frame;
-                    contentFrame.size.height = abs(diff - self.tableViewTasks.tableView.frame.size.height);
+                    contentFrame.size.height = fabs(diff - self.tableViewTasks.tableView.frame.size.height);
                     self.tableViewTasks.tableView.frame = contentFrame;
                 } else if (self.menuTagLast == 24) {
                     contentFrame = self.tableViewNotes.tableView.frame;
-                    contentFrame.size.height = abs(diff - self.tableViewNotes.tableView.frame.size.height);
+                    contentFrame.size.height = fabs(diff - self.tableViewNotes.tableView.frame.size.height);
                     self.tableViewNotes.tableView.frame = contentFrame;
                 }
             }

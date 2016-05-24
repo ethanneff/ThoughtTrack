@@ -21,7 +21,7 @@
     sleep(0.75f);
     
     // evernote
-    NSString *SANDBOX_HOST = ENSessionHostSandbox;
+//    NSString *SANDBOX_HOST = ENSessionHostSandbox;
     NSString *CONSUMER_KEY = @"ethanneff-7635";
     NSString *CONSUMER_SECRET = @"575cc9d7eea8d853";
     

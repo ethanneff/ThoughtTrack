@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>019FD403-02D3-49ED-B8A5-AE7883EA933A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ThoughtTrack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C5DF1FC9530C43BC538ED478E00677654A549A24</key>
+		<string>https://github.com/ethanneff/ThoughtTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ThoughtTrack.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C5DF1FC9530C43BC538ED478E00677654A549A24</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ethanneff/ThoughtTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C5DF1FC9530C43BC538ED478E00677654A549A24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C5DF1FC9530C43BC538ED478E00677654A549A24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ThoughtTrack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
